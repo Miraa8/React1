@@ -1,4 +1,4 @@
-# my first REACT project
+# my first REACT single page application
 ## made with
 - HTML
 - CSS
